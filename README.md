@@ -6,4 +6,4 @@
 
 <img width="740" height="20" alt="IMG_7004" src="https://github.com/user-attachments/assets/204d2263-88e4-4b85-9750-07fa2b65ec43" />
 
-work in progress. 
+check my repository .angelicr0t. 4 info pls! ^_^
