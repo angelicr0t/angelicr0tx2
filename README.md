@@ -1,29 +1,37 @@
-<br>
-
-
-<table>
+<table border="0">
   <tr>
-     <td width="60%" align="center" valign="middle" border="0">
-     <img width="474" height="592" alt="IMG_7341" src="https://github.com/user-attachments/assets/c862e767-ad43-4847-aca6-356369263bd0" />
-       <br>
+    <!-- LEFT SIDE: CHARACTER ART / SKIN SPREAD -->
+    <td width="60%" align="center" valign="middle" border="0">
+      <img width="1302" height="1515" alt="IMG_7348" src="https://github.com/user-attachments/assets/635b88f3-88ad-4ce7-9d3b-219c30f4e49a" />
+      <br>
       <sub style="color: #7cca92; font-family: monospace;">"He's a real nowhere man..."</sub>
     </td>
+  <!-- RIGHT SIDE: MINIMAL BIO & LINKS -->
     <td width="40%" valign="top" border="0">
       <font size="3" face="monospace">
-        
-  <span style="color: #0d3d38;"><b>angelicr0t</b></span> ♡ <sub><i>they/he</i></span>
+       <font color="#4a7ba7"><b>a̶n̶g̶e̶l̶i̶c̶r̶0̶t̶</b></font> 🪽 <sub><i><font color="#dfd5c6;">they/he/it</font></i></sub>
   <br><br>
-  <span style="color: #2b5c54;"><b>NINAH self-insert</b></span> log.
-  <br>
-  so <i>please hurry leave me</i> 
-  i can't breathe 
-  please <i>don't say you love me...</i> 
-  <span style="color: #7cca92;">胸がはち切れそうで</span>
+  
+  <b><font color="#dfd5c6;">"I'm the one who gripped you tight and raised you from perdition."</font></b>
   <br><br>
-  ︴𖤐 — <span style="color: #7cca92;">u13</span> ✦ dni
+  
+  <!-- PLAYFAIR DISPLAY LYRICS START -->
+  <font face="Playfair Display">
+    <font color="#4a7ba7">Doesn't have a <i>point of view</i>,</font><br>
+    <font color="#4a7ba7">knows not <i>where he's going to.</i></font><br>
+    <font color="#dfd5c6;">isn't he a bit like <b>you and me?</b></font>
+  </font>
+  <!-- PLAYFAIR DISPLAY LYRICS END -->
   <br><br>
+  
+  <font color="#4a7ba7"> ︴𖤐 — u13 + dni</font>
+  <br><br><br>
   
   <!-- LINKS SECTION -->
-  <a href="https://angelicr0t.atabook.org"><b>ask me something!</b></a> 🎚️ 
-  <a href="https://github.com/my-skins"><b>straw</b></a> 🎚️ 
-  
+  <a href="https://atabook.org"><b><font color="#4a7ba7">ask me something!</font></b></a> 🎚️ 
+  <br>  <a href="https://github.com"><b><font color="#4a7ba7">straw</font></b></a> 🎚️
+
+  </font>
+    </td>
+  </tr>
+</table>
