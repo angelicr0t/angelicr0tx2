@@ -24,7 +24,7 @@
   <!-- PLAYFAIR DISPLAY LYRICS END -->
   <br><br>
   
-  <font color="#4a7ba7"> ︴𖤐 — u13 + dni</font>
+  <font color="#4a7ba7"> ︴𖤐 — 13-  dni</font>
   <br><br><br>
   
   <!-- LINKS SECTION -->
