@@ -2,7 +2,7 @@
   <tr>
     <!-- LEFT SIDE: CHARACTER ART / SKIN SPREAD -->
     <td width="60%" align="center" valign="middle" border="0">
-      <img width="1302" height="1515" alt="IMG_7348" src="https://github.com/user-attachments/assets/635b88f3-88ad-4ce7-9d3b-219c30f4e49a" />
+      <img width="1392" height="1520" alt="IMG_7374" src="https://github.com/user-attachments/assets/1c571643-68af-435d-a436-2d42d4501510" />
       <br>
       <sub style="color: #7cca92; font-family: monospace;">"He's a real nowhere man..."</sub>
     </td>
