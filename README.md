@@ -1,3 +1,7 @@
+<br>
+<div align="center">
+<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=plastic&color=4a7ba7&labelColor=dfd5c6"/></a>
+
 <table border="0">
   <tr>
     <!-- LEFT SIDE: CHARACTER ART / SKIN SPREAD -->
