@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=plastic&color=4a7ba7&labelColor=dfd5c6"/></a>
+<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=plastic&label=%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%AC%20%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%9D&color=4a7ba7&labelColor=dfd5c6"/></a>
 
 <table border="0">
   <tr>
