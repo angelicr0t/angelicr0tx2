@@ -1,6 +1,7 @@
 <br>
 <div align="center">
-<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=plastic&label=%F0%9D%98%9D%F0%9D%98%96%F0%9D%98%93%F0%9D%98%9B%F0%9D%98%88%F0%9D%98%8E%F0%9D%98%8C%20%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%9A%F0%9D%98%8A%F0%9D%98%8F%F0%9D%98%88%F0%9D%98%99%F0%9D%98%8E%F0%9D%98%8C%F0%9D%98%9A&color=7e5b43&labelColor=716c7b"/></a>
+<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=plastic&label=%F0%9D%90%B9%F0%9D%90%BC%F0%9D%91%85%F0%9D%90%B8%F0%9D%91%86%20%F0%9D%91%86%F0%9D%91%87%F0%9D%90%B4%F0%9D%91%85%F0%9D%91%87%F0%9D%90%B8%F0%9D%90%B7&color=85381c&labelColor=7a7168"/></a>
+
 
 <table border="0">
   <tr>
