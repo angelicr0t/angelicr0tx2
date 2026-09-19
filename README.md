@@ -9,7 +9,7 @@
     <td width="60%" align="center" valign="middle" border="0">
       <img width="955" height="1072" alt="IMG_8076" src="https://github.com/user-attachments/assets/941d8a7d-678c-4d7c-8656-1109c5b93c58" />
       <br>
-      <sub style="color: #7cca92; font-family: monospace;">"Can't take no criticizing, criticizing gets me down."
+      <sub style="color: #7cca92; font-family: monospace;">"While you stood over the pavement I was biting the curb, sick entertainment but I'll bet it feels good."
 </sub>
     </td>
   <!-- RIGHT SIDE: MINIMAL BIO & LINKS -->
