@@ -15,7 +15,7 @@
   <!-- RIGHT SIDE: MINIMAL BIO & LINKS -->
     <td width="40%" valign="top" border="0">
       <font size="3" face="monospace">
-       <font color="#4a7ba7"><b>a̶n̶g̶e̶l̶i̶c̶r̶0̶t̶</b></font> 🚬 <sub><i><font color="#dfd5c6;">they/he/it</font></i></sub>
+       <font color="#4a7ba7"><b>a̶n̶g̶e̶l̶i̶c̶r̶0̶t̶</b></font> 🚬 <sub><i><font color="#dfd5c6;">they/he</font></i></sub>
   <br><br>
   
   <b><font color="#dfd5c6;">"if you could cast itchy balls as a spell in DnD what level do you think you'd unlock it at?"</font></b>
