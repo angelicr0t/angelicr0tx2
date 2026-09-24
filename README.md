@@ -33,8 +33,8 @@
   <br><br><br>
   
   <!-- LINKS SECTION -->
-  <a href="https://angelicr0t.atabook.org"><b><font color="#4a7ba7">ask me something!</font></b></a> 💥 
-  <br>  <a href="https://angelicr0tx2.straw.page"><b><font color="#4a7ba7">straw</font></b></a> 🔥
+  <a href="https://angelicr0t.atabook.org"><b><font color="#4a7ba7">atabook!</font></b></a> 💥 
+  <br>  <a href="https://angelicr0tx2.straw.page"><b><font color="#4a7ba7">strawpage</font></b></a> 🔥
 
   </font>
     </td>
