@@ -29,7 +29,7 @@
   <!-- PLAYFAIR DISPLAY LYRICS END -->
   <br><br>
   
-  <font color="#4a7ba7"> ︴𖤐 — 13-  dni I will block your dumbass on the spot lmao</font>
+  <font color="#4a7ba7"> ︴𖤐 — 13-  dni I will block you on the spot lmao</font>
   <br><br><br>
   
   <!-- LINKS SECTION -->
