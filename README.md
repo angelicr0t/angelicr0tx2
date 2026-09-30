@@ -26,6 +26,7 @@
     <font color="#4a7ba7">I cut you out because I don't think that I'm sick <i>Be still your heart, and do not resuscitate.</i>,</font><br>
     <font color="#4a7ba7">In the end, you took it all away from <i> me.</i></font><br>
   </font>
+  - 𝖲𝗈 𝖥𝖺𝗋 𝖲𝗈 𝖥𝖺𝗄𝖾, 𝖯𝗂𝖾𝗋𝖼𝖾 𝖳𝗁𝖾 𝖵𝖾𝗂𝗅
   <!-- PLAYFAIR DISPLAY LYRICS END -->
   <br><br>
   
