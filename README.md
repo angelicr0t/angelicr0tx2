@@ -1,21 +1,21 @@
 <br>
 <div align="center">
-<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=plastic&label=%F0%9D%90%B9%F0%9D%90%BC%F0%9D%91%85%F0%9D%90%B8%F0%9D%91%86%20%F0%9D%91%86%F0%9D%91%87%F0%9D%90%B4%F0%9D%91%85%F0%9D%91%87%F0%9D%90%B8%F0%9D%90%B7&color=85381c&labelColor=7a7168"/></a>
+<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?label=%CF%81%CE%B1%D1%82%CE%B9%E1%B4%87%CE%B7%D1%82%D1%95&color=c9c9c8&labelColor=23332f"/></a>
 
 
 <table border="0">
   <tr>
     <!-- LEFT SIDE: CHARACTER ART / SKIN SPREAD -->
     <td width="60%" align="center" valign="middle" border="0">
-      <img width="955" height="1072" alt="IMG_8076" src="https://github.com/user-attachments/assets/941d8a7d-678c-4d7c-8656-1109c5b93c58" />
+      <img width="640" height="687" alt="IMG_9396" src="https://github.com/user-attachments/assets/5f504405-9435-4ff9-b649-15e146bfd448" />
       <br>
-      <sub style="color: #7cca92; font-family: monospace;">"Can't take no criticizing, criticizing gets me down."
+      <sub style="color: #7cca92; font-family: monospace;">"Make it stop, make it stop... Pretty please, a prescription!"
 </sub>
     </td>
   <!-- RIGHT SIDE: MINIMAL BIO & LINKS -->
     <td width="40%" valign="top" border="0">
       <font size="3" face="monospace">
-       <font color="#4a7ba7"><b>a̶n̶g̶e̶l̶i̶c̶r̶0̶t̶</b></font> 💥 <sub><i><font color="#dfd5c6;">they/he</font></i></sub>
+       <font color="#4a7ba7"><b>a̶n̶g̶e̶l̶i̶c̶r̶0̶t̶</b></font> 💊 <sub><i><font color="#dfd5c6;">they/he</font></i></sub>
   <br><br>
   
   <b><font color="#dfd5c6;">"dunno how much longer i can do this shit man."</font></b>
@@ -30,12 +30,12 @@
   <!-- PLAYFAIR DISPLAY LYRICS END -->
   <br><br>
   
-  <font color="#4a7ba7"> ︴𖤐 — 13-  dni I will block you on the spot lmao</font>
+  <font color="#4a7ba7"> ︴⚖️ — 13-  dni I will block you on the spot lmao</font>
   <br><br><br>
   
   <!-- LINKS SECTION -->
-  <a href="https://angelicr0t.atabook.org"><b><font color="#4a7ba7">atabook!</font></b></a> 💥 
-  <br>  <a href="https://momentom0rii.straw.page"><b><font color="#4a7ba7">strawpage</font></b></a> 🔥
+  <a href="https://angelicr0t.atabook.org"><b><font color="#4a7ba7">atabook!</font></b></a> 💉 
+  <br>  <a href="https://momentom0rii.straw.page"><b><font color="#4a7ba7">strawpage</font></b></a> 💊
 
   </font>
     </td>
