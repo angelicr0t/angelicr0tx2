@@ -7,7 +7,7 @@
   <tr>
     <!-- LEFT SIDE: CHARACTER ART / SKIN SPREAD -->
     <td width="60%" align="center" valign="middle" border="0">
-      <img width="640" height="687" alt="IMG_9396" src="https://github.com/user-attachments/assets/5f504405-9435-4ff9-b649-15e146bfd448" />
+      <img width="640" height="829" alt="IMG_9403" src="https://github.com/user-attachments/assets/a56b572c-5fec-4a03-9a96-c74e861dea7c" />
       <br>
       <sub style="color: #7cca92; font-family: monospace;">"Make it stop, make it stop... Pretty please, a prescription!"
 </sub>
